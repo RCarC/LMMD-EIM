@@ -13,4 +13,4 @@ Ambas plantillas incluyen el cajetín institucional y campos para escala, unidad
 
 Los archivos se distribuyen en formato nativo de Autodesk Inventor (`.idw`) para su uso como base en planos institucionales.
 
-> La versión de Autodesk Inventor utilizada para crear o validar estas plantillas aún no está documentada.
+> La versión de Autodesk Inventor utilizada para crear o validar estas plantillas es 2025.
